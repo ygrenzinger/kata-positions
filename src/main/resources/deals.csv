@@ -1,0 +1,11 @@
+dealId;type;firm;value
+1;BUY;Air Liquide;67 295,000
+2;BUY;Engie;123 245,000
+3;SELL;Engie;78 563,000
+4;BUY;Societe Generale;234 654,000
+5;BUY;Societe Generale;156 643,000
+6;SELL;Air Liquide;67 295,000
+7;BUY;Engie;87 242,000
+8;SELL;Societe Generale;320 654,000
+9;BUY;Air Liquide;30 743,000
+10;BUY;Engie;87 242,000
